@@ -1,2 +1,2 @@
-# azure-learning
-My Azure Learning Repo
+# My Azure Learnings
+This repo is my learning space for Azure related services
